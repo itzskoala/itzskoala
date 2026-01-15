@@ -1,4 +1,4 @@
-# Hi there! <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.gif" alt="🤗" width="32" height="32">
+# Hey there! <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.gif" alt="🤗" width="32" height="32">
 
 <img src="https://github.com/user-attachments/assets/6bdf8861-a330-4318-b17d-30ef1ddc0e37" alt="It's me!" width="400" />
 
