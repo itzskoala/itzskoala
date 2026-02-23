@@ -25,7 +25,7 @@ I’m looking to collaborate on business projects that utilize AI and ML.
 
 ### Fun Facts:
 
-• I have B2 Spanish and want to reach C1 by the end of this year
+• I have B2 Spanish and am currently studying for the DELE.
 
 • I have a golden doodle named Rambo
 
