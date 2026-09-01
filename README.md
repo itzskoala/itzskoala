@@ -21,7 +21,7 @@ I’m currently working on becoming accredited in digital advertising on courser
 
 I’m looking to collaborate on business projects that utilize AI and ML.
 
-<a href="mailto:kotal008@umn.edu">Email me!</a>
+<a href="mailto:sri.kotala@gmail.com">Email me!</a>
 
 ### Fun Facts:
 
